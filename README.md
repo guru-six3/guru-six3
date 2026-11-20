@@ -31,13 +31,13 @@ Development and validation are ongoing, not a public-release claim.
 
 Student, staff and administrator portals for attendance, marks, fees, timetables and notices.
 
-<a href="https://github.com/guru-six3/clarivo"><img src="./assets/clarivo-card.svg" alt="clarivo: a Python college examination FAQ chatbot." width="100%" /></a>
-
-TF-IDF matching, related-question suggestions and date-aware countdowns.
-
 <a href="https://github.com/guru-six3/cineseat"><img src="./assets/cineseat-card.svg" alt="cineseat: a full-stack cinema discovery and booking platform." width="100%" /></a>
 
 Cinema discovery and booking, with an intelligent audience experience.
+
+<a href="https://github.com/guru-six3/clarivo"><img src="./assets/clarivo-card.svg" alt="clarivo: a Python college examination FAQ chatbot." width="100%" /></a>
+
+TF-IDF matching, related-question suggestions and date-aware countdowns.
 
 <br />
 
