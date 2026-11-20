@@ -1,4 +1,4 @@
-<img src="./assets/guru-banner.svg" alt="Guru. Useful software. Care in the details." width="100%" />
+<img src="./assets/guru-graphite.svg" alt="Guru. Useful software. Care in the details." width="100%" />
 
 <p align="center">
   <a href="https://github.com/guru-six3/ARGUS-showcase">Explore ARGUS</a> &nbsp; · &nbsp;
@@ -15,7 +15,7 @@ The parts I care about most: **correct data, understandable behaviour, privacy a
 
 <br />
 
-<a href="https://github.com/guru-six3/ARGUS-showcase"><img src="./assets/argus-feature.svg" alt="ARGUS: an AI-powered financial intelligence platform. Open the public showcase." width="100%" /></a>
+<a href="https://github.com/guru-six3/ARGUS-showcase"><img src="./assets/argus-graphite.svg" alt="ARGUS: an AI-powered financial intelligence platform. Open the public showcase." width="100%" /></a>
 
 Transaction capture, editable review, budgets, explainable guidance and Financial Journey.
 The showcase presents the product; the application source stays private.
@@ -27,15 +27,15 @@ Development and validation are ongoing, not a public-release claim.
 
 ## Selected projects
 
-<a href="https://github.com/guru-six3/NODUS"><img src="./assets/nodus-card.svg" alt="NODUS: role-based academic management, built with TypeScript." width="100%" /></a>
+<a href="https://github.com/guru-six3/NODUS"><img src="./assets/nodus-graphite.svg" alt="NODUS: role-based academic management, built with TypeScript." width="100%" /></a>
 
 Student, staff and administrator portals for attendance, marks, fees, timetables and notices.
 
-<a href="https://github.com/guru-six3/cineseat"><img src="./assets/cineseat-card.svg" alt="cineseat: a full-stack cinema discovery and booking platform." width="100%" /></a>
+<a href="https://github.com/guru-six3/cineseat"><img src="./assets/cineseat-graphite.svg" alt="cineseat: a full-stack cinema discovery and booking platform." width="100%" /></a>
 
 Cinema discovery and booking, with an intelligent audience experience.
 
-<a href="https://github.com/guru-six3/clarivo"><img src="./assets/clarivo-card.svg" alt="clarivo: a Python college examination FAQ chatbot." width="100%" /></a>
+<a href="https://github.com/guru-six3/clarivo"><img src="./assets/clarivo-graphite.svg" alt="clarivo: a Python college examination FAQ chatbot." width="100%" /></a>
 
 TF-IDF matching, related-question suggestions and date-aware countdowns.
 
