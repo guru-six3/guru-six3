@@ -21,7 +21,7 @@ Transaction capture, editable review, budgets, explainable guidance and Financia
 The showcase presents the product; the application source stays private.
 Development and validation are ongoing, not a public-release claim.
 
-[Explore the product and engineering decisions →](https://github.com/guru-six3/ARGUS-showcase)
+[Watch the demo and explore ARGUS →](https://github.com/guru-six3/ARGUS-showcase#watch-the-demo)
 
 <br />
 
